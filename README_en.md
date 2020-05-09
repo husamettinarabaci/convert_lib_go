@@ -1,8 +1,8 @@
 # convert_lib_go
 
-Go dili için dönüştürücü kütüphanesi
+Converter library for Go
 
-Fonksiyonlar :
+Functions :
 
 ```go
 func BytesToTime(b []byte) time.Time {}
@@ -11,13 +11,13 @@ func BytesToInt(b []byte) int64 {}
 func IntToBytes(tracker int64) []byte {}
 ```
 
-## Kurulum:
+## Installation:
 
 ```
 go get "github.com/AfatekDevelopers/convert_lib_go/devafatekconvert"
 ```
 
-## Geliştirici Bilgileri:
+## Developers:
 <img src="https://github.com/AfatekDevelopers/companyfiles/blob/master/afatek-logo.png?raw=true" width="200" align="center"/>
 Web Site        : www.afatek.com.tr <br />
 Developer Groups : https://t.me/Afatek/ <br />

@@ -20,4 +20,4 @@ go get "github.com/AfatekDevelopers/convert_lib_go/devafatekconvert"
 ## Geliştirici Bilgileri:
 <img src="https://github.com/AfatekDevelopers/companyfiles/blob/master/afatek-logo.png?raw=true" width="200" align="center"/>
 Web Site        : www.afatek.com.tr <br />
-Developer Groups : [Telegram](https://t.me/Afatek) <br />
+Developer Groups : https://t.me/Afatek/ <br />

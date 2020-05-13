@@ -13,7 +13,7 @@ func IntToBytes(tracker int64) []byte {}
 
 ## Installation:
 
-```
+```shell
 go get "github.com/AfatekDevelopers/convert_lib_go/devafatekconvert"
 ```
 

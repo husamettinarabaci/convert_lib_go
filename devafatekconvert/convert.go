@@ -1,4 +1,4 @@
-package devafatekconvert
+package devhsmtekconvert
 
 import (
 	"encoding/binary"
